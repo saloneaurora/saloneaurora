@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:/
+Allow:/
 Sitemap: https://saloneaurora.github.io/saloneaurora/sitemap.xml
 
