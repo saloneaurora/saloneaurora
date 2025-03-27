@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:/
-Sitemap: https://www.tuosito.com/sitemap.xml
+Sitemap: https://saloneaurora.github.io/saloneaurora/sitemap.xml
+
